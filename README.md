@@ -10,4 +10,4 @@ The questions asked to the data:
 4. How do the Holiday weeks affect Weekly Sales?
 5. What is the effect of Unemployment on Sales?
 
-Link: 
+Link: https://nik-hil-24.github.io/Walmart-Retail-Analysis/
